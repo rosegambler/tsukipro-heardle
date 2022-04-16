@@ -1,8 +1,9 @@
 export const songs = [
   {
-    artist: "Bedoes",
-    name: "VOGUE",
-    youtubeId: "74awmTEOSOs",
+    artist: "Procellarum",
+    name: "LOLV (Lots of Love)",
+    youtubeId: "PekWNJI0ekU",
+    series: "Tsukiuta (Male Side)
   },
   {
     artist: "Wilki",
